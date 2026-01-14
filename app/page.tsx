@@ -55,11 +55,6 @@ export default function Home() {
                   Meus Agendamentos
                 </Button>
               </Link>
-              <Link href="/admin">
-                <Button variant="ghost" className="text-slate-300 hover:text-white hover:bg-slate-800">
-                  Admin
-                </Button>
-              </Link>
             </div>
           </div>
         </div>
